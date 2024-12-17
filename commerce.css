@@ -1,0 +1,13 @@
+
+*{
+    background-color: black;
+}
+a{
+    color: aliceblue;
+    font-size:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top:88vh;
+    left: 50vh;
+    text-decoration: none;
+}
